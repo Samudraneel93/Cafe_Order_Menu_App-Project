@@ -32,5 +32,5 @@ This project allows users to view a cafe menu, place orders, and calculate the t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/Samudraneel93/Cafe_Order_Menu_App-Project/tree/main.git
 
